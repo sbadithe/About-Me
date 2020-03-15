@@ -1,5 +1,5 @@
 <html>
-    <title> About Me </title> 
     <body>
-        <p> I am a student interested in web development </p>
+        <p> I am second-year college student interested in computer science. In my free time, I like reading literature and history    books.</p>
+        
 
