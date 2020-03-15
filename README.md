@@ -13,4 +13,4 @@
                 </ul>
         <p> My goals for programming projects are not well-defined enough to merit sharing. However I aim to make multiple quality commits a day for the next three months.</p> 
         <p> <a href="https://en.wikipedia.org/wiki/Orca">One of my favorite animals</a>
-
+    </body> 
