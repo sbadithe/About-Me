@@ -1,6 +1,6 @@
 <html>
     <body>
-        <link href="About-Me/blob/master/mypref.css" type="text/css" rel="stylesheet" />
+        <link href="/About-Me/blob/master/mypref.css" type="text/css" rel="stylesheet" />
         <p> I am second-year college student interested in computer science. In my free time, I like reading literature and history    books.</p>
         <hr /> 
         <p> Here are some of the things that I want to learn in the near future: </p>
