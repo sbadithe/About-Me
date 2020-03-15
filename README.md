@@ -10,5 +10,6 @@
                 <ul>
                     <li> Specifically, I want to learn to work with both Gentoo and Arch </li>
                 </ul>
-        <p> My goals for programming projects are not well-defined enough to merit sharing. However I am to make multiple quality commits a day </p> 
+        </ol>
+        <p> My goals for programming projects are not well-defined enough to merit sharing. However I aim to make multiple quality commits a day for the next three months.</p> 
 
