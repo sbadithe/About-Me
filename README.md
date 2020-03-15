@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 <html>
     <body>
         <link href="About-Me/blob/master/mypref.css" type="text/css" rel="css/style.css" />
