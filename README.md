@@ -11,5 +11,5 @@
                 <ul>
                     <li> Specifically, I want to learn to work with both Gentoo and Arch </li>
                 </ul>
-        <p style="color: blue;"> My goals for programming projects are not well-defined enough to merit sharing. However I aim to make multiple quality commits a day for the next three months.</p> 
+        <p style="color: green;"> My goals for programming projects are not well-defined enough to merit sharing. However I aim to make multiple quality commits a day for the next three months.</p> 
        
