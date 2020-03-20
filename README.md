@@ -1,5 +1,5 @@
 <style>
-    li {
+    ol {
     font-style: italic
     }
 </style>
