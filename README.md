@@ -16,8 +16,8 @@
             <li> The Linux environment 
             </li>
         </ol>
-        <p> My goals for programming projects are not well-defined enough to merit sharing. However I aim to make multiple quality commits a day for the next three months.</p> 
-        <p> Personal projects and what I learned from them: <p> 
+        <h2> Personal projects and what I learned from them: </h2> 
+        <p> What I learned from writing a command-line tool using argparse and Beautiful Soup. </p> 
     </body>
 </html> 
        
